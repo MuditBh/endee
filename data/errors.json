@@ -1,0 +1,46 @@
+[
+  {
+    "error": "NullPointerException in Java",
+    "solution": "Occurs when accessing a null object. Add null checks before usage."
+  },
+  {
+    "error": "IndexOutOfBoundsException",
+    "solution": "Ensure index is within valid array or list bounds."
+  },
+  {
+    "error": "ModuleNotFoundError in Python",
+    "solution": "Install the missing module using pip install <module_name>."
+  },
+  {
+    "error": "HTTP 500 Internal Server Error",
+    "solution": "Check backend logs for unhandled exceptions."
+  },
+  {
+    "error": "Connection timeout database",
+    "solution": "Verify database server is running and network connectivity."
+  },
+  {
+    "error": "SyntaxError invalid syntax Python",
+    "solution": "Check for missing colons, brackets, or incorrect indentation."
+  },
+  {
+    "error": "OutOfMemoryError Java heap space",
+    "solution": "Increase heap size or optimize memory usage."
+  },
+  {
+    "error": "Failed to connect to server",
+    "solution": "Check server URL, port, and network connectivity."
+  },
+  {
+    "error": "403 Forbidden error",
+    "solution": "Check authentication credentials and permissions."
+  },
+  {
+    "error": "404 Not Found error",
+    "solution": "Verify the endpoint URL or resource path."
+  },
+  {
+  "error": "null pointer error",
+  "solution": "Check for null before accessing object"
+  }
+]
